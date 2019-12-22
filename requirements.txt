@@ -1,0 +1,20 @@
+black
+flake8
+matplotlib
+mypy
+numpy
+opencv-python
+pandas
+pillow
+pytest
+requests
+sklearn
+sympy
+
+opencv-python==4.1.0.25
+opencv-python==3.9.*
+
+protobuf
+import google.protobuf
+
+https://numpy.org/devdocs/user/quickstart.html
